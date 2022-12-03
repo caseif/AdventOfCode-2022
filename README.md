@@ -6,7 +6,8 @@ polyglot challenge), but we'll see how that pans out (i.e. whether I can find en
 ## Completed Problems
 
 [Day 1: Ruby](./day1_ruby)  
-[Day 2: Prolog](./day2_prolog)
+[Day 2: Prolog (GNU Prolog)](./day2_prolog)  
+[Day 3: MATLAB (GNU Octave)](./day3_octave)
 
 ## Candidate Languages (tentative)
 
@@ -26,10 +27,11 @@ polyglot challenge), but we'll see how that pans out (i.e. whether I can find en
 - Kotlin
 - Lisp
 - Lua
-- MATLAB/Octave
 - OCaml
+- Perl
 - PHP
 - Python
+- R
 - Rust
 - x86 Assembly
 - Zig

@@ -1,4 +1,4 @@
-# Day 2 - Prolog (GNU Prolog)
+# Day 2: Prolog (GNU Prolog)
 
 Ah, Prolog. Prolog is probably the most unique programming language I've used, and the only purely declarative one at
 that. I honestly forgot how cool it is! There's just something immensely satisfying about being able to represent all of

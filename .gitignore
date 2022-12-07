@@ -1,4 +1,4 @@
 *.o
 day5_cpp/solve
-day6_cpp/solve_a
-day6_cpp/solve_b
+day6_x86/solve_a
+day6_x86/solve_b

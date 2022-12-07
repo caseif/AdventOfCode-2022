@@ -9,8 +9,8 @@ polyglot challenge), but we'll see how that pans out (i.e. whether I can find en
 [Day 2: Prolog (GNU Prolog)](./day2_prolog)  
 [Day 3: MATLAB (GNU Octave)](./day3_octave)  
 [Day 4: OCaml](./day4_ocaml)  
-[Day 5: C++](./day5_cpp)
-[Day 6: x86 Assembly](./day6_x86)
+[Day 5: C++](./day5_cpp)  
+[Day 6: x86_64 Assembly](./day6_x86)
 
 ## Candidate Languages (tentative)
 

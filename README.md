@@ -10,7 +10,8 @@ polyglot challenge), but we'll see how that pans out (i.e. whether I can find en
 [Day 3: MATLAB (GNU Octave)](./day3_octave)  
 [Day 4: OCaml](./day4_ocaml)  
 [Day 5: C++](./day5_cpp)  
-[Day 6: x86_64 Assembly](./day6_x86)
+[Day 6: x86_64 Assembly](./day6_x86)  
+[Day 7: D](./day7_d)
 
 ## Candidate Languages (tentative)
 
@@ -19,7 +20,6 @@ polyglot challenge), but we'll see how that pans out (i.e. whether I can find en
 - C
 - C#
 - CoffeeScript
-- D
 - Fortran
 - Go
 - Groovy

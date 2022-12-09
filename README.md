@@ -1,7 +1,8 @@
 # Advent of Code 2022
 
 My solutions for AoC 2022. I intend to complete each day's problems in a different programming language (a.k.a. the
-polyglot challenge), but we'll see how that pans out (i.e. whether I can find enough time each day).
+polyglot challenge). Most of the solutions here are optimized for development time, so efficiency and
+readability/maintainability generally aren't concerns. I swear, most of the time my code looks a _lot_ nicer than this.
 
 ## Completed Problems
 
@@ -11,7 +12,8 @@ polyglot challenge), but we'll see how that pans out (i.e. whether I can find en
 [Day 4: OCaml](./day4_ocaml)  
 [Day 5: C++](./day5_cpp)  
 [Day 6: x86_64 Assembly](./day6_x86)  
-[Day 7: D](./day7_d)
+[Day 7: D](./day7_d)  
+[Day 8: Fortran](./day8_fortran)
 
 ## Candidate Languages (tentative)
 
@@ -20,7 +22,6 @@ polyglot challenge), but we'll see how that pans out (i.e. whether I can find en
 - C
 - C#
 - CoffeeScript
-- Fortran
 - Go
 - Groovy
 - Haskell

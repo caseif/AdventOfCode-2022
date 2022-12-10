@@ -13,7 +13,8 @@ readability/maintainability generally aren't concerns. I swear, most of the time
 [Day 5: C++](./day5_cpp)  
 [Day 6: x86_64 Assembly](./day6_x86)  
 [Day 7: D](./day7_d)  
-[Day 8: Fortran](./day8_fortran)
+[Day 8: Fortran](./day8_fortran)  
+[Day 9: R](./day9_r)
 
 ## Candidate Languages (tentative)
 

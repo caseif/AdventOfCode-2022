@@ -15,7 +15,8 @@ readability/maintainability generally aren't concerns. I swear, most of the time
 [Day 7: D](./day7_d)  
 [Day 8: Fortran](./day8_fortran)  
 [Day 9: R](./day9_r)  
-[Day 10: Zig](./day10_zig)
+[Day 10: Zig](./day10_zig)  
+[Day 11: Java](./day11_java)
 
 ## Candidate Languages (tentative)
 
@@ -27,7 +28,6 @@ readability/maintainability generally aren't concerns. I swear, most of the time
 - Go
 - Groovy
 - Haskell
-- Java
 - JavaScript
 - Kotlin
 - Lisp

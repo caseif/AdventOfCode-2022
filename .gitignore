@@ -1,9 +1,9 @@
 *.o
-day5_cpp/solve
-day6_x86/solve_a
-day6_x86/solve_b
-day7_d/solve
-day8_fortran/solve
+day05_cpp/solve
+day06_x86/solve_a
+day06_x86/solve_b
+day07_d/solve
+day08_fortran/solve
 day11_java/*.class
 day11_java/*.jar
 day12_go/solve

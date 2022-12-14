@@ -18,7 +18,8 @@ readability/maintainability generally aren't concerns. I swear, most of the time
 [Day 10: Zig](./day10_zig)  
 [Day 11: Java](./day11_java)  
 [Day 12: Go](./day12_go)  
-[Day 13: JavaScript](./day13_javascript)
+[Day 13: JavaScript](./day13_javascript)  
+[Day 14: Lua](./day14_lua)
 
 ## Candidate Languages (tentative)
 
@@ -31,7 +32,6 @@ readability/maintainability generally aren't concerns. I swear, most of the time
 - Haskell
 - Kotlin
 - Lisp
-- Lua
 - Perl
 - PHP
 - Python

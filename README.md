@@ -21,13 +21,13 @@ readability/maintainability generally aren't concerns. I swear, most of the time
 [Day 13: JavaScript](./day13_javascript)  
 [Day 14: Lua](./day14_lua)  
 [Day 15: Lisp](./day15_lisp)  
-[Day 16: Python](./day16_python)
+[Day 16: Python](./day16_python)  
+[Day 17: C](./day17_c)
 
 ## Candidate Languages (tentative)
 
 - Bash
 - BASIC
-- C
 - C#
 - CoffeeScript
 - Erlang

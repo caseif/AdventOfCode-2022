@@ -23,9 +23,9 @@ for the desired outcome. Once the move was selected, it could be passed to the e
 
 You may notice that I completely skipped over input handling. This is because this part wasn't especially interesting to
 implement (read a byte, compare against \n, finalize the line and recurse if so), and also just turns out to be a pretty
-big pain in a declarative PL, because that's just not something a declarative language is very good for and it's hard
-to do it elegantly. This is all compounded by my general lack of knowledge of the language - the biggest snags I hit
-in terms of time wasted were failing to realize that `read/2` expects the input lines to be terms (which must have a
+big pain in a declarative language, because that's just not something a declarative language is very good for and it's
+hard to do it elegantly. This is all compounded by my general lack of knowledge of the language - the biggest snags I
+hit in terms of time wasted were failing to realize that `read/2` expects the input lines to be terms (which must have a
 trailing period), and not properly handling `end_of_file` and causing a mysterious stack overflow.
 
 To my dismay, my initial answer turned out to be incorrect. I thought I might have made some grave logical misstep, but

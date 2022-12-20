@@ -5,7 +5,7 @@ program my TI-Nspire, and I studied the source code of
 [Trouble in Terrorist Town](https://github.com/TroubleInTerroristTown/Public) while writing a
 [version of the game](https://github.com/caseif/TTT) for Minecraft, but apart from this I've never written a "complex"
 program in the language. This all being said, I found it shockingly easy to pick up and write in. I have some minor
-gripes (namely no braces and 1-indexing), but it's plain to see why it's such a popular scripting choice for game
+gripes (namely no braces and 1-indexing), but it's plain to see why it's such a popular language choice for game
 scripting.
 
 There's nothing too special about today's solution - it just runs the sand simulation step-by-step via two nested loops.

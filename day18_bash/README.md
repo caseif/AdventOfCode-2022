@@ -6,13 +6,13 @@ sum variable if it doesn't contain another lava voxel. Not the most efficient al
 
 But then we get to part B, and we need to somehow omit surfaces which face an internal air pocket which isn't exposed to
 the external air. My first thought was to just make the assumption that the droplet was roughly a sphere without any
-weird concave structures. This would allow one to search to the bounds of the area in each directions, and if a ray
+weird concave structures. This would allow one to search to the bounds of the area in each direction, and if a ray
 in a given direction doesn't encounter any lava we can be sure it's an external pocket, and if not we can assume that
 it's internal. This gets us somewhat close to the answer, but for whatever reason it fails to count a few hundred
 surfaces and thus it doesn't suffice.
 
 I fiddled around some more with various brute force methods because I really, really didn't want to try to implement
-a flood-fill algorithm in Bash. This worry turned out to be completely founded, as a quickly hit a segfault due to
+a flood-fill algorithm in Bash. This worry turned out to be completely founded, as I quickly hit a segfault due to
 excessive recursion while doing so. The solution to this was to divide the area into octants and flood-fill each one
 separately. Once the list of all external air voxels is constructed, it's just a matter of modifying the check for each
 face of lava voxels to match against the air voxel array (instead of the lava voxel one).

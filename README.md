@@ -25,7 +25,8 @@ readability/maintainability generally aren't concerns. I swear, most of the time
 [Day 17: C](./day17_c)  
 [Day 18: Bash](./day18_bash)  
 [Day 19: Kotlin](./day19_kotlin)  
-[Day 20: Scala](./day20_scala)
+[Day 20: Scala](./day20_scala)  
+[Day 21: PHP](./day21_php)
 
 ## Candidate Languages (tentative)
 
@@ -36,5 +37,4 @@ readability/maintainability generally aren't concerns. I swear, most of the time
 - Groovy
 - Julia
 - Perl
-- PHP
 - Rust

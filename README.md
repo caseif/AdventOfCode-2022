@@ -27,7 +27,7 @@ readability/maintainability generally aren't concerns. I swear, most of the time
 [Day 19: Kotlin](./day19_kotlin)  
 [Day 20: Scala](./day20_scala)  
 [Day 21: PHP](./day21_php)  
-[Day 22: Perl](./day21_perl)
+[Day 22: Perl](./day22_perl)
 
 ## Candidate Languages (tentative)
 

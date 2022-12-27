@@ -28,12 +28,12 @@ readability/maintainability generally aren't concerns. I swear, most of the time
 [Day 20: Scala](./day20_scala)  
 [Day 21: PHP](./day21_php)  
 [Day 22: Perl](./day22_perl)  
-[Day 23: Julia](./day23_julia)
+[Day 23: Julia](./day23_julia)  
+[Day 24: C#](./day24_csharp)
 
 ## Candidate Languages (tentative)
 
 - BASIC
-- C#
 - CoffeeScript
 - Erlang
 - Groovy

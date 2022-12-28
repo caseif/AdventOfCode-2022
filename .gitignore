@@ -10,3 +10,5 @@ day12_go/solve
 day17_c/solve
 day24_csharp/bin/
 day24_csharp/obj/
+day25_rust/target/
+day25_rust/Cargo.lock
